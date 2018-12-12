@@ -1,0 +1,29 @@
+.logo{
+    margin-left:20px;
+    text-align: center;
+}
+.button{
+    background-color:lightgrey;
+    color:black;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+#descBlock{
+	margin-top: 5em;
+}
+.center{
+	text-align: center;
+}
+.box{
+    border:1px solid gray;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius:5px;
+    width:450px;
+
+}
+.color{
+    background-color: black;
+    color:white;
+}

@@ -1,0 +1,32 @@
+
+.center{
+	text-align: center;
+}
+#descBlock{
+	margin-top: 5em;
+}
+.heading{
+  text-align: center;
+  padding-top: 10px;
+  font-size: 35px;
+}
+
+.button{
+    background-color: black;
+    color: white;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+
+.logo{
+    margin-left: 20px;
+    text-align: center;
+}
+.align{
+    text-align: center;
+}
+.card-text{
+    margin-left: 50px;
+    margin-right: 50px;
+}
